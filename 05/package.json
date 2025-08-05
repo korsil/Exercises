@@ -1,0 +1,14 @@
+{
+  "name": "ex05",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
